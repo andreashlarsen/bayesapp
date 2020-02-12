@@ -1,4 +1,4 @@
-# bayesapp
+# BayesApp
 calculates pair distance distribution function via Bayesian indirect Fourier transformaiton (BIFT)
 
 ### Online GUI at GenApp
