@@ -26,6 +26,9 @@ line 12: value for transformation   or a blank line
 line 13: value for background       or a blank line    
 line 14: value for screensize       or a blank line    
 
+Only the first line has to be a non blank line
+NB The input values are the same as at the web site 
+
 ### Reference
  (1) https://scripts.iucr.org/cgi-bin/paper?pe0063    
  (2) https://onlinelibrary.wiley.com/iucr/doi/10.1107/S0021889812014318    
